@@ -12,6 +12,10 @@ Phân tích hành vi mua hàng và xây dựng hệ thống gợi ý sản phẩ
 
 > 🔗 **File Code Notebook:** [Jupiter Notebook](https://github.com/ngthuylinh3003/Group-Project/blob/f8284ad2e0c696ae1f85809de9864713658117b8/%5BMar3ng%5D_Midterm_final_code.ipynb)
 
+> 🔗 **Slides Presentation (3 parts):**
++ [1.Data Cleaning](https://github.com/ngthuylinh3003/Group-Project/blob/55484487fc98cb3bb4b904f5c91a5271940f6c38/%5BPresentation%5D%20Data%20Cleaning.pdf)
++ [2.Used-Based Filtering](https://github.com/ngthuylinh3003/Group-Project/blob/55484487fc98cb3bb4b904f5c91a5271940f6c38/%5BPresentation%5D%20Used_Item_Based%20Filtering.pdf)
++ [3.Apriori](https://github.com/ngthuylinh3003/Group-Project/blob/55484487fc98cb3bb4b904f5c91a5271940f6c38/%5BPresentation%5D%20Apriori_Market_Basket.pdf)
 ---
 
 ### 🛠 Yêu cầu & Gợi ý
