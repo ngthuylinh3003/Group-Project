@@ -11,6 +11,7 @@ Phân tích hành vi mua hàng và xây dựng hệ thống gợi ý sản phẩ
 > 🔗 **File Code GG Colab:** [Colab Link](https://colab.research.google.com/drive/1wJinLbM0UDW3PuqdStrVcpbV61sJ6z4s)
 
 > 🔗 **File Code Notebook:** [Jupiter Notebook](https://github.com/ngthuylinh3003/Group-Project/blob/4685c10fbfa493a3dd1b23a320650c13c8f1aee8/%5BMar3ng%5D_UDMar_Midterm.ipynb)
+
 > 🔗 **Slides Presentation (3 parts):**
 + [1.Data Cleaning](https://github.com/ngthuylinh3003/Group-Project/blob/55484487fc98cb3bb4b904f5c91a5271940f6c38/%5BPresentation%5D%20Data%20Cleaning.pdf)
 + [2.Used-Based Filtering](https://github.com/ngthuylinh3003/Group-Project/blob/55484487fc98cb3bb4b904f5c91a5271940f6c38/%5BPresentation%5D%20Used_Item_Based%20Filtering.pdf)
